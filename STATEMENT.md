@@ -13,7 +13,7 @@ El ejercicio se debe traer terminado para el siguiente laboratorio (Parte II).
 
 En este ejercicio se va a construír un modelo de clases para la capa lógica de una aplicación que permita gestionar planos arquitectónicos de una prestigiosa compañia de diseño. 
 
-![](img/ClassDiagram1.png)
+![](assets/images/ClassDiagram1.png)
 
 1. Configure la aplicación para que funcione bajo un esquema de inyección de dependencias, tal como se muestra en el diagrama anterior.
 
